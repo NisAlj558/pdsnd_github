@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+project3 it's for moving the work to githup using git commands and working with local and remote repo
 
 ### Files used
 Include the files used
